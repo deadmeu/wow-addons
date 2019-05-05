@@ -31,3 +31,6 @@
 [submodule "submodules/Cartographer"]
 	path = submodules/Cartographer
 	url = https://github.com/deadmeu/Cartographer.git
+[submodule "submodules/OneBag"]
+	path = submodules/OneBag
+	url = https://github.com/deadmeu/OneBag.git
