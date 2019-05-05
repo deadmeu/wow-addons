@@ -1,0 +1,24 @@
+[submodule "submodules/Atlas"]
+	path = submodules/Atlas
+	url = https://github.com/Cabro/Atlas.git
+[submodule "submodules/Accountant"]
+	path = submodules/Accountant
+	url = https://github.com/wow-vanilla-addons/Accountant.git
+[submodule "submodules/AutoShot"]
+	path = submodules/AutoShot
+	url = https://github.com/WouterBink/AutoShot.git
+[submodule "submodules/aux-addon"]
+	path = submodules/aux-addon
+	url = https://github.com/shirsig/aux-addon.git
+[submodule "submodules/aux_merchant_prices"]
+	path = submodules/aux_merchant_prices
+	url = https://github.com/shirsig/aux_merchant_prices.git
+[submodule "submodules/AddOnOrganizer"]
+	path = submodules/AddOnOrganizer
+	url = https://github.com/Monteo/AddOnOrganizer.git
+[submodule "submodules/ag_UnitFrames_Improved"]
+	path = submodules/ag_UnitFrames_Improved
+	url = https://github.com/satan666/ag_UnitFrames_Improved.git
+[submodule "submodules/AntiSpamStopCast"]
+	path = submodules/AntiSpamStopCast
+	url = https://github.com/thepparker/AntiSpamStopCast.git
