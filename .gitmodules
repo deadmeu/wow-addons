@@ -28,3 +28,6 @@
 [submodule "submodules/BetterCharacterStats"]
 	path = submodules/BetterCharacterStats
 	url = https://github.com:deadmeu/BetterCharacterStats.git
+[submodule "submodules/Cartographer"]
+	path = submodules/Cartographer
+	url = https://github.com/deadmeu/Cartographer.git
