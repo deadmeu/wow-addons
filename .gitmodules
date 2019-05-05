@@ -27,4 +27,4 @@
 	url = https://github.com/deadmeu/Mail.git
 [submodule "submodules/BetterCharacterStats"]
 	path = submodules/BetterCharacterStats
-	url = git@github.com:deadmeu/BetterCharacterStats.git
+	url = https://github.com:deadmeu/BetterCharacterStats.git
