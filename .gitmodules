@@ -22,3 +22,6 @@
 [submodule "submodules/AntiSpamStopCast"]
 	path = submodules/AntiSpamStopCast
 	url = https://github.com/thepparker/AntiSpamStopCast.git
+[submodule "submodules/Mail"]
+	path = submodules/Mail
+	url = https://github.com/shirsig/Mail.git
