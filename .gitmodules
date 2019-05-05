@@ -3,7 +3,7 @@
 	url = https://github.com/deadmeu/Atlas.git
 [submodule "submodules/Accountant"]
 	path = submodules/Accountant
-	url = https://github.com/deadmeu-vanilla-addons/Accountant.git
+	url = https://github.com/deadmeu/Accountant.git
 [submodule "submodules/AutoShot"]
 	path = submodules/AutoShot
 	url = https://github.com/deadmeu/AutoShot.git
