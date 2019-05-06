@@ -34,3 +34,6 @@
 [submodule "submodules/OneBag"]
 	path = submodules/OneBag
 	url = https://github.com/deadmeu/OneBag.git
+[submodule "submodules/SortBags"]
+	path = submodules/SortBags
+	url = https://github.com/deadmeu/SortBags
