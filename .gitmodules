@@ -37,3 +37,6 @@
 [submodule "submodules/SortBags"]
 	path = submodules/SortBags
 	url = https://github.com/deadmeu/SortBags
+[submodule "submodules/Cleanup"]
+	path = submodules/Cleanup
+	url = https://github.com/deadmeu/Cleanup
