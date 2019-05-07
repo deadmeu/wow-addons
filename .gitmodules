@@ -46,3 +46,6 @@
 [submodule "submodules/notoggle"]
 	path = submodules/notoggle
 	url = https://github.com/deadmeu/notoggle
+[submodule "submodules/QuestieDev"]
+	path = submodules/QuestieDev
+	url = https://github.com/deadmeu/QuestieDev
