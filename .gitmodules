@@ -55,3 +55,6 @@
 [submodule "submodules/Decursive"]
 	path = submodules/Decursive
 	url = https://github.com/deadmeu/Decursive
+[submodule "submodules/EzDismount"]
+	path = submodules/EzDismount
+	url = https://github.com/deadmeu/EzDismount
