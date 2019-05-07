@@ -40,3 +40,6 @@
 [submodule "submodules/Cleanup"]
 	path = submodules/Cleanup
 	url = https://github.com/deadmeu/Cleanup
+[submodule "submodules/_LP"]
+	path = submodules/_LP
+	url = https://github.com/deadmeu/_LP
