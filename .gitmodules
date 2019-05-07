@@ -43,3 +43,6 @@
 [submodule "submodules/_LP"]
 	path = submodules/_LP
 	url = https://github.com/deadmeu/_LP
+[submodule "submodules/notoggle"]
+	path = submodules/notoggle
+	url = https://github.com/deadmeu/notoggle
