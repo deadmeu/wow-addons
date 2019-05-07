@@ -49,3 +49,6 @@
 [submodule "submodules/QuestieDev"]
 	path = submodules/QuestieDev
 	url = https://github.com/deadmeu/QuestieDev
+[submodule "submodules/XLoot_AddOns"]
+	path = submodules/XLoot_AddOns
+	url = https://github.com/deadmeu/XLoot_AddOns
