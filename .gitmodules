@@ -52,3 +52,6 @@
 [submodule "submodules/XLoot_AddOns"]
 	path = submodules/XLoot_AddOns
 	url = https://github.com/deadmeu/XLoot_AddOns
+[submodule "submodules/Decursive"]
+	path = submodules/Decursive
+	url = https://github.com/deadmeu/Decursive
