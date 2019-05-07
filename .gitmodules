@@ -64,3 +64,6 @@
 [submodule "submodules/Vanilla_MikScrollingBattleText"]
 	path = submodules/Vanilla_MikScrollingBattleText
 	url = https://github.com/deadmeu/Vanilla_MikScrollingBattleText
+[submodule "submodules/Outfitter"]
+	path = submodules/Outfitter
+	url = https://github.com/deadmeu/Outfitter
