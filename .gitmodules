@@ -58,3 +58,6 @@
 [submodule "submodules/EzDismount"]
 	path = submodules/EzDismount
 	url = https://github.com/deadmeu/EzDismount
+[submodule "submodules/Gatherer"]
+	path = submodules/Gatherer
+	url = https://github.com/deadmeu/Gatherer
