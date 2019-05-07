@@ -61,3 +61,6 @@
 [submodule "submodules/Gatherer"]
 	path = submodules/Gatherer
 	url = https://github.com/deadmeu/Gatherer
+[submodule "submodules/Vanilla_MikScrollingBattleText"]
+	path = submodules/Vanilla_MikScrollingBattleText
+	url = https://github.com/deadmeu/Vanilla_MikScrollingBattleText
