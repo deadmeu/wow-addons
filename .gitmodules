@@ -67,3 +67,6 @@
 [submodule "submodules/Outfitter"]
 	path = submodules/Outfitter
 	url = https://github.com/deadmeu/Outfitter
+[submodule "submodules/VanillaGuide"]
+	path = submodules/VanillaGuide
+	url = https://github.com/deadmeu/VanillaGuide
