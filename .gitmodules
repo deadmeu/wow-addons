@@ -1,3 +1,6 @@
 [submodule "submodules/QuestieDev"]
 	path = submodules/QuestieDev
 	url = https://github.com/AeroScripts/QuestieDev
+[submodule "submodules/aux-addon"]
+	path = submodules/aux-addon
+	url = https://github.com/shirsig/aux-addon
