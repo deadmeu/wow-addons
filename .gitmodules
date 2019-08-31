@@ -13,3 +13,6 @@
 [submodule "submodules/Mail"]
 	path = submodules/Mail
 	url = https://github.com/shirsig/Mail
+[submodule "submodules/AutoShot"]
+	path = submodules/AutoShot
+	url = https://github.com/deadmeu/AutoShot
