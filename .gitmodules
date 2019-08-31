@@ -4,3 +4,6 @@
 [submodule "submodules/aux-addon"]
 	path = submodules/aux-addon
 	url = https://github.com/shirsig/aux-addon
+[submodule "submodules/aux_merchant_prices"]
+	path = submodules/aux_merchant_prices
+	url = https://github.com/shirsig/aux_merchant_prices
