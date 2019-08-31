@@ -7,3 +7,6 @@
 [submodule "submodules/aux_merchant_prices"]
 	path = submodules/aux_merchant_prices
 	url = https://github.com/shirsig/aux_merchant_prices
+[submodule "submodules/Mapster"]
+	path = submodules/Mapster
+	url = https://github.com/Nevcairiel/Mapster
