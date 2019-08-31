@@ -1,5 +1,5 @@
-# wow-vanilla-addons
-My collection of vanilla addons for World of Warcraft patch 1.12.
+# wow-addons
+My collection of addons for World of Warcraft.
 
 # Installation
 Note that this repository makes heavy use of git submodules. As such, you must include the `--recurse-submodules` flag with your `git clone` operation, or by using `git submodule update` after a `git checkout` operation.
