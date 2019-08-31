@@ -10,3 +10,6 @@
 [submodule "submodules/Mapster"]
 	path = submodules/Mapster
 	url = https://github.com/Nevcairiel/Mapster
+[submodule "submodules/Mail"]
+	path = submodules/Mail
+	url = https://github.com/shirsig/Mail
