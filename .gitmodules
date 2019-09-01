@@ -16,3 +16,6 @@
 [submodule "submodules/AutoShot"]
 	path = submodules/AutoShot
 	url = https://github.com/deadmeu/AutoShot
+[submodule "submodules/Gatherer"]
+	path = submodules/Gatherer
+	url = https://github.com/jsb/Gatherer
