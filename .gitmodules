@@ -19,3 +19,6 @@
 [submodule "submodules/Gatherer"]
 	path = submodules/Gatherer
 	url = https://github.com/jsb/Gatherer
+[submodule "submodules/VanillaGuide"]
+	path = submodules/VanillaGuide
+	url = https://github.com/deadmeu/VanillaGuide
